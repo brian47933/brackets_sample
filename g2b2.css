@@ -1,0 +1,75 @@
+h1, h2, h3, h4, h5, h6, p, ul, li {
+    font-family: "Calibri", Verdana, Airal, sans-serif;
+    padding: 10px;
+    width: 800px;
+}
+h1 {
+    font-size: 250%;
+    color: white;
+    background-color:#204E2B;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 4px solid #e6e600;
+}
+
+h3 {
+    border-bottom: 2px solid #002db3;
+}
+
+
+
+#Overview_Overview-Title {
+    font-size: 150%;
+    font-weight: bold;
+    background-color: gainsboro;
+}
+
+#Overview_Overview-Text {
+    background-color: gainsboro;
+}
+
+.script {
+    font-style: italic;
+    color: purple;
+}
+
+.button {
+    font-weight: bold;
+}
+
+#cover {
+    align-content: center;
+}
+.copyright {
+    font-family: "Calibri", Verdana, Airal, sans-serif;
+    text-transform: uppercase;
+    font-size: 75%;
+    text-align: justify;
+}
+.delliver_date {
+    
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 75%;
+}
+
+a:link {
+    font-family: "Calibri", Verdana, Airal, sans-serif;
+    color: hotpink;
+    text-decoration: none;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    text-decoration: underline;
+}
+div {
+    
+}
+.cover {
+    height: 300px;
+    width: 200px;
+}
